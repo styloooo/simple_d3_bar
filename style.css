@@ -13,3 +13,8 @@ html, body{
   margin: 1px;
   color: white;
 }
+
+.map { 
+  height: 50%; 
+  width: 50%;
+}
