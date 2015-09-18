@@ -14,7 +14,7 @@ html, body{
   color: white;
 }
 
-.map { 
+#map { 
   height: 50%; 
   width: 50%;
 }
