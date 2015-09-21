@@ -1,4 +1,4 @@
-var data = [4, 8, 15, 16, 23, 42, 60, 39];
+var data = [4, 8, 15, 16, 23, 42, 39];
 
 function sortNumber(a, b){
 	return a - b;
